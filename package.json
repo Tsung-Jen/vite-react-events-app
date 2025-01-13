@@ -1,7 +1,7 @@
 {
   "name": "react-query",
   "homepage": "https://tsung-jen.github.io/vite-react-events-app",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",  
   "scripts": {
